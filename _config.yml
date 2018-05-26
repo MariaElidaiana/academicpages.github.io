@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maria Elidaiana / Site Title"
+title                    : "Maria Elidaiana da S. Pereira"
 title_separator          : "-"
 name                     : &name "Maria Elidaiana"
-description              : &description "personal description"
+description              : &description "Postdoctoral researcher at the Brandeis University, Waltham."
 url                      : https://mariaelidaiana.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MariaElidaiana/mariaelidaiana.github.io"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : MariaElidaiana
 facebook:
   username               :
   app_id                 :
@@ -79,12 +79,12 @@ analytics:
 # Site Author
 author:
   name             : "Maria Elidaiana"
-  avatar           : "mariapic.png"
-  bio              : "Post-Doc at Brandeis University."
+  avatar           : "mariapic.jpg"
+  bio              : "Postdoctoral researcher at the Brandeis University. Interested in Cosmology, Gravitational Lensing, Galaxy Clusters and Gravitational Waves."
   location         : "Waltham, MA"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=9wyaN7YAAAAJ&hl"
+  email            : "mariaeli@brandeis.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,14 +97,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/mariaelidaiana"
+  orcid            : "http://orcid.org/0000-0002-7131-7684"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "MariaElidaiana"
   vine             :
   weibo            :
   xing             :
@@ -170,7 +170,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -253,7 +253,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -303,3 +303,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+github: [metadata]
