@@ -52,7 +52,7 @@ the [Canada-France-Hawaii Telescope](http://www.cfht.hawaii.edu/) (CFHT) --- a 3
 
 Motivated by the high availability of data at different wavelengths in that region, a group of collaborators designed CS82 to be the weak lensing survey on Stripe 82, profiting from the excellent image quality provided by the CFHT telescope. The region was imaged in the $i$ band, providing data with a depth up to $i=23.5$ with excellent seeing conditions (average value of $ 0.6^{\prime\prime}$). The CS82 survey also motivated a new survey in the infrared, VICS82.
 
-I worked estimating the morphological parameters of the objects by modeling the Point Spread Function (PSF) of the images and fitting brightness profiles to the objects. I carried out several tests to optimize the generation of these morphology catalogs. I have also performed a stack weak lensing analysis for this survey by the combination with the produced shear catalog and the SDSS redMaPPer cluster public catalog. Due to my contributions to the survey I was considered part of the {\it core team} of the project.
+I worked estimating the morphological parameters of the objects by modeling the Point Spread Function (PSF) of the images and fitting brightness profiles to the objects. I carried out several tests to optimize the generation of these morphology catalogs. I have also performed a stack weak lensing analysis for this survey by the combination with the produced shear catalog and the SDSS redMaPPer cluster public catalog. Due to my contributions to the survey I was considered part of the _core team_ of the project.
 
 SOGRAS
 ======
