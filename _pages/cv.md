@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-My full resume is available [<span style="color:blue">here</span>]({{ site.url }}/files/maria-cv-may-2018.pdf).
+My full resume is available [<span style="color:blue">here</span>]({{ site.url }}/files/maria_cv_2018.pdf).
 
 Education
 ======
 
-* Ph.D in Physics, Brazilian Center for Physics Research (CBPF), 2017 
+* Ph.D in Physics, Brazilian Center for Physics Research (CBPF), 2017
 * B.E. in Physics, Rio de Janeiro State University (UERJ), 2015
 * M.S. in Physics, CBPF, 2012
 * B.S. in Physics, UERJ, 2009
@@ -22,18 +22,18 @@ Education
 Work experience
 ======
 
-* Oct 2017 - Current: Postdoctoral Researcher 
+* Oct 2017 - Current: Postdoctoral Researcher
   * Brandeis University
+  * Supervisor: Dr. Marcelle Soares-Santos
   * Duties included: Statistical analysis and coding development for the DES, LSST and BLISS/Blink surveys.   
-  * Supervisor: Marcelle Soares-Santos
 
 * Jun 2016 - Aug 2016: Visiting Researcher
   * Fermilab
-  * Supervisor: Marcelle Soares-Santos
-  * Project: Weak-lensing mass calibration of a stellar mass-based mass proxy for redMaPPer and Voronoi-Tessellation clusters. 
+  * Supervisor: Dr. Marcelle Soares-Santos
+  * Project: Weak-lensing mass calibration of a stellar mass-based mass proxy for redMaPPer and Voronoi-Tessellation clusters.
   * Result: MNRAS paper. Can be found [<span style="color:blue">here</span>]( https://academic.oup.com/mnras/article/474/1/1361/4584475).
 
-* Oct 2015 - Nov 2015: Visiting Researcher 
+* Oct 2015 - Nov 2015: Visiting Researcher
   * Fermilab
   * Supervisor: Dr. Marcelle Soares-Santos
   * Project: Quantifying the selection effect of galaxy clusters undetected by red sequence methods.
@@ -48,7 +48,7 @@ Skills
   * Mathematica
   * C
   * Fortran 95
-  * R 
+  * R
 * Open source coding
   * Jupyter Notebooks
   * Git
@@ -65,7 +65,7 @@ Skills
   * Obztak
 * Languages
   * Portuguese (mother language)
-  * English (advanced) 
+  * English (advanced)
   * German (beginner)
 
 Publications
@@ -76,19 +76,19 @@ Publications
 
 * See [<span style="color:blue">here</span>](http://inspirehep.net/search?p=exactauthor%3AM.Elidaiana.da.Silva.Pereira.1&sf=earliestdate) my inSPIRE hep search.  
 * See [<span style="color:blue">here</span>](https://arxiv.org/search/?searchtype=author&query=Pereira%2C+M+E+S) my arXiv search.
-  
+
 Selected talks
 ======
 
 * _Weighing galaxy clusters in wide area imaging surveys_. Fermilab. Feb 2018.
 * _Weighing galaxy clusters on Stripe 82 through weak gravitational lensing_. UFRJ. Sep 2017.  
-  
+
 Outreach
 ======
 
-* Cultural Tourism in the Imperial district of São Cristóvão. Museum of Astronomy and Related Sciences (MAST), Brazil. May 2015, 2017. 
+* Cultural Tourism in the Imperial district of São Cristóvão. Museum of Astronomy and Related Sciences (MAST), Brazil. May 2015, 2017.
 * National Science and Technology Week. Itinerant event. Oct 2013, 2014, 2016.  
- 
+
 Awards and grants
 ======
 
@@ -103,5 +103,4 @@ Service and leadership
 
 * Currently signed into 45 different slack channels
 * Organizer of the dark energy/dark matter seminars at Brandeis University (2018-Current)
-* Member of the graduate student association (2013-2015)
-
+* Member of the CBPF's graduate student association (2013-2015)

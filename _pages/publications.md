@@ -13,6 +13,8 @@ author_profile: true
 
 ### 2018
 
+* <p><cite>Compact Groups analysis using weak gravitational lensing II: CFHT Stripe 82 data</cite>. Chalela et al., 2018, Accepted for publication at MNRAS. [ <a href="https://arxiv.org/abs/1806.05685"><font color="0000FF">arXiv</font></a>  | <a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1806.05685"><font color="0000FF">ADS</font></a> ] </p>
+
 * <p><cite>Probing galaxy assembly bias with LRG weak lensing observations</cite>. Niemiec et al., 2018, MNRAS, volume 477, pages L1-L5. [ <a href="https://arxiv.org/abs/1801.06551"><font color="0000FF">arXiv</font></a>  | <a href="http://adsabs.harvard.edu/abs/2018MNRAS.477L...1N"><font color="0000FF">ADS</font></a> ] </p>
 
 * <p><cite>Do satellite galaxies trace matter in galaxy clusters?</cite> Wang et al., 2018, MNRAS, volume 475, pages 4020-4026. [ <a href="https://arxiv.org/abs/1801.02317"><font color="0000FF">arXiv</font></a>  | <a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1801.02317"><font color="0000FF">ADS</font></a> ] </p>
@@ -52,6 +54,3 @@ author_profile: true
 * <p><cite>Stochastic bias of colour-selected BAO tracers by joint clustering-weak lensing analysis</cite>. Comparat et al., 2013, MNRAS, volume 433, pages 1146-1160. [ <a href="https://arxiv.org/abs/1302.5655"><font color="0000FF">arXiv</font></a>  | <a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1302.5655"><font color="0000FF">ADS</font></a> ] </p>
 
 * <p><cite>The SOAR Gravitational Arc Survey - I. Survey overview and photometric catalogues</cite>. Furlanetto et al., 2013, MNRAS, volume 432, pages 73-88. [ <a href="https://arxiv.org/abs/1210.4136"><font color="0000FF">arXiv</font></a>  | <a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1210.4136"><font color="0000FF">ADS</font></a> ] </p>
-
-
-
