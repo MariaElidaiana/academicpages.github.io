@@ -27,7 +27,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Maria Elidaiana"
-  avatar           : "mariapic.jpg"
+  avatar           : "mariapic2.jpg"
   bio              : "Postdoctoral researcher at the Brandeis University. Interested in Cosmology, Gravitational Lensing, Galaxy Clusters and Gravitational Waves."
   location         : "Waltham, MA"
   employer         :

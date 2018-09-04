@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full resume is available [<span style="color:blue">here</span>]({{ site.url }}/files/maria_cv_2018.pdf).
+My full resume is available [<span style="color:#75B9D4">here</span>]({{ site.url }}/files/maria_cv_2018.pdf).
 
 Education
 ======
@@ -31,7 +31,7 @@ Work experience
   * Fermilab
   * Supervisor: Dr. Marcelle Soares-Santos
   * Project: Weak-lensing mass calibration of a stellar mass-based mass proxy for redMaPPer and Voronoi-Tessellation clusters.
-  * Result: MNRAS paper. Can be found [<span style="color:blue">here</span>]( https://academic.oup.com/mnras/article/474/1/1361/4584475).
+  * Result: MNRAS paper. Can be found [<span style="color:#75B9D4">here</span>]( https://academic.oup.com/mnras/article/474/1/1361/4584475).
 
 * Oct 2015 - Nov 2015: Visiting Researcher
   * Fermilab
@@ -74,8 +74,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-* See [<span style="color:blue">here</span>](http://inspirehep.net/search?p=exactauthor%3AM.Elidaiana.da.Silva.Pereira.1&sf=earliestdate) my inSPIRE hep search.  
-* See [<span style="color:blue">here</span>](https://arxiv.org/search/?searchtype=author&query=Pereira%2C+M+E+S) my arXiv search.
+* See [<span style="color:#75B9D4">here</span>](http://inspirehep.net/search?p=exactauthor%3AM.Elidaiana.da.Silva.Pereira.1&sf=earliestdate) my inSPIRE hep search.  
+* See [<span style="color:#75B9D4">here</span>](https://arxiv.org/search/?searchtype=author&query=Pereira%2C+M+E+S) my arXiv search.
 
 Selected talks
 ======

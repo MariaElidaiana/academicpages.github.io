@@ -27,7 +27,7 @@ Recently, the first results using data from a full operating season of DES, the 
 LSST
 ======
 
-The [Large Synoptic Survey Telescope](https://www.lsst.org/) (LSST) project will conduct a 10-year survey of the sky that will deliver a huge amount of images and data products that will address some of the most pressing questions about the structure and evolution of the Universe such as:
+The [Large Synoptic Survey Telescope](https://www.lsst.org/) (LSST) project will conduct a 10-year survey of the sky that will deliver a huge amount of images and data products that will address some of the most pressing questions<sup>[1]</sup> about the structure and evolution of the Universe such as:
 
 * What is the mysterious dark energy (DE) that is driving the acceleration of the cosmic expansion?
 * What is dark matter (DM), how is it distributed?
@@ -37,7 +37,9 @@ The [Large Synoptic Survey Telescope](https://www.lsst.org/) (LSST) project will
 * Is it possible to make a complete inventory of potentially hazardous smaller bodies in the solar system?
 * Are there new exotic and explosive phenomena in the Universe that have not yet been discovered?
 
-However, by now the researchers involved in LSST-DESC are working in the development of simulations to test the pipelines that will be used when the survey starts to have data. I am interested to use the LSST-DESC DC2 simulations to apply a cluster finding pipeline that is being developed by our group, the [Voronoi Tessellation Cluster Finder](https://github.com/SSantosLab/vt-clustertools). In this pipeline we do not need to assume the presence of a red-sequence to identify the clusters. This can be an advantage when we go to higher redshifts (which will be the case of LSST) where the red-sequence might not be formed yet.             
+However, by now the researchers involved in LSST-DESC are working in the development of simulations to test the pipelines that will be used when the survey starts to have data. I am interested to use the LSST-DESC DC2 simulations to apply a cluster finding pipeline that is being developed by our group, the [Voronoi Tessellation Cluster Finder](https://github.com/SSantosLab/vt-clustertools). In this pipeline we do not need to assume the presence of a red-sequence to identify the clusters. This can be an advantage when we go to higher redshifts (which will be the case of LSST) where the red-sequence might not be formed yet.  
+
+<p> <sup>[1]</sup> Source: <a href="https://www.lsst.org/">https://www.lsst.org</a> </p>           
 
 BlinK
 ======
