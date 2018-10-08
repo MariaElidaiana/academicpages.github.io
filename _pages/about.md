@@ -11,7 +11,7 @@ redirect_from:
 ![smiling_lens](../images/smiling_lens_hubble.jpg) <sub>Image Credit: NASA/ESA</sub>
 
 
-I am first year postdoctoral researcher at the [Brandeis University](http://www.brandeis.edu/) working with Professor [Marcelle Soares-Santos](https://www.brandeis.edu/departments/physics/people/faculty/soares-santos.html). My main field is Observational Cosmology, and I am particularly interested in understanding the formation and evolution of the Universe through the analysis of astronomical data from wide field surveys.
+I am a postdoctoral researcher at the [Brandeis University](http://www.brandeis.edu/) working with Professor [Marcelle Soares-Santos](https://www.brandeis.edu/departments/physics/people/faculty/soares-santos.html). My main field is Observational Cosmology, and I am particularly interested in understanding the formation and evolution of the Universe through the analysis of astronomical data from wide field surveys.
 
 I am member of the [Dark Energy Survey](https://www.darkenergysurvey.org/) (DES) and the [Large Synoptic Survey Telescope Dark Energy Science Collaboration](www.lsst-desc.org/) (LSST-DESC). Currently, DES is the project with the most precise measurements of the large-scale structure of the Universe using multiple observational probes. In the 2020's, LSST will surpass DES with much more statistics and depth. Besides these big collaborations, I am also involved with smaller but still very interesting projects such as the SOAR GRavitational Arc Survey (SOGRAS), the CFHT Stripe 82 survey (CS82), the VISTA-CFHT Stripe 82 survey (VICS82) and the Blanco i-band Kilo-degree survey (BlinK).     
 
