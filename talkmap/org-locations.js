@@ -21,12 +21,17 @@ var addressPoints = [
   ], 
   [
     "New York, NY, USA", 
-    40.7306458, 
-    -73.9866136
+    40.7308619, 
+    -73.9871558
   ], 
   [
     "Les Houches, France", 
     45.891508, 
     6.799138
+  ], 
+  [
+    "Campinas, SP, Brazil", 
+    -22.90556, 
+    -47.06083
   ]
 ];

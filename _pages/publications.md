@@ -11,11 +11,19 @@ author_profile: true
 
 {% include base_path %}
 
+* See [<span style="color:#75B9D4">here</span>](https://orcid.org/0000-0002-7131-7684) my ORCID record.
+
+### 2019
+
+* <p><cite>First measurement of the Hubble constant from a dark standard siren using the Dark Energy Survey galaxies and the LIGO/Virgo binary-black-hole merger GW170814</cite>. The DES Collaboration, the LIGO Scientific Collaboration, the Virgo Collaboration, Soares-Santos et al., 2019, submitted to ApJL. [ <a href="https://arxiv.org/abs/1901.01540"><font color="75B9D4">arXiv</font></a>  | <a href="https://ui.adsabs.harvard.edu/\#abs/2019arXiv190101540T"><font color="75B9D4">ADS</font></a> ] </p>
+
 ### 2018
 
-* <p><cite>Dark energy survey operations: years 4 and 5</cite>. Diehl et al., 2018, Proc. SPIE Int. Soc. Opt. Eng. [ <a href="http://inspirehep.net/record/1680960/files/fermilab-conf-18-214-ppd.pdf"><font color="75B9D4">inSPIRE HEP</font></a>  | <a href="http://lss.fnal.gov/archive/2018/conf/fermilab-conf-18-214-ppd.pdf"><font color="75B9D4">Fermilab Library Server</font></a> ] </p>
+* <p><cite>Weak lensing analysis of galaxy pairs using CS82 data</cite>. Gonzalez et al., 2018, accepted for publication in A&A. [ <a href="https://arxiv.org/abs/1811.04940"><font color="75B9D4">arXiv</font></a>  | <a href="https://ui.adsabs.harvard.edu/#abs/arXiv:1811.04940"><font color="75B9D4">ADS</font></a> ] </p>
 
-* <p><cite>Compact Groups analysis using weak gravitational lensing II: CFHT Stripe 82 data</cite>. Chalela et al., 2018, Accepted for publication at MNRAS. [ <a href="https://arxiv.org/abs/1806.05685"><font color="75B9D4">arXiv</font></a>  | <a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1806.05685"><font color="75B9D4">ADS</font></a> ] </p>
+* <p><cite>Compact Groups analysis using weak gravitational lensing II: CFHT Stripe 82 data</cite>. Chalela et al., 2018, MNRAS, volume 479, pages 1170-1179. [ <a href="https://arxiv.org/abs/1806.05685"><font color="75B9D4">arXiv</font></a>  | <a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1806.05685"><font color="75B9D4">ADS</font></a> ] </p>
+
+* <p><cite>Dark energy survey operations: years 4 and 5</cite>. Diehl et al., 2018, Proc. SPIE Int. Soc. Opt. Eng. [ <a href="http://inspirehep.net/record/1680960/files/fermilab-conf-18-214-ppd.pdf"><font color="75B9D4">inSPIRE HEP</font></a>  | <a href="http://lss.fnal.gov/archive/2018/conf/fermilab-conf-18-214-ppd.pdf"><font color="75B9D4">Fermilab Library Server</font></a> ] </p>
 
 * <p><cite>Probing galaxy assembly bias with LRG weak lensing observations</cite>. Niemiec et al., 2018, MNRAS, volume 477, pages L1-L5. [ <a href="https://arxiv.org/abs/1801.06551"><font color="75B9D4">arXiv</font></a>  | <a href="http://adsabs.harvard.edu/abs/2018MNRAS.477L...1N"><font color="75B9D4">ADS</font></a> ] </p>
 

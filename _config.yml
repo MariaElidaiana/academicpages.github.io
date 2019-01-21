@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Maria Elidaiana da S. Pereira"
 title_separator          : "-"
 name                     : &name "Maria Elidaiana"
-description              : &description "Postdoctoral researcher at the Brandeis University, Waltham."
+description              : &description "Postdoctoral researcher at Brandeis University, Waltham."
 url                      : https://mariaelidaiana.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MariaElidaiana/mariaelidaiana.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Maria Elidaiana"
   avatar           : "mariapic2.jpg"
-  bio              : "Postdoctoral researcher at the Brandeis University. Interested in Cosmology, Gravitational Lensing, Galaxy Clusters and Gravitational Waves."
+  bio              : "Postdoctoral researcher at Brandeis University. Interested in Cosmology, Gravitational Lensing, Galaxy Clusters and Gravitational Waves."
   location         : "Waltham, MA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=9wyaN7YAAAAJ&hl"
